@@ -104,8 +104,8 @@
               "type": "outgoing-link",
               "state": {
                 "file": "2023-12-11.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3152a1a92938743c",
+  "active": "6c8ff812a9527463",
   "lastOpenFiles": [
     "2023-12-11.md",
     "무제 파일.md",
