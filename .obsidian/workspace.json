@@ -129,9 +129,25 @@
                 "file": "2023-12-11.md"
               }
             }
+          },
+          {
+            "id": "634c614457df361a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "15c5263254c467e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -147,7 +163,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6c8ff812a9527463",
+  "active": "7e3ec597739a4767",
   "lastOpenFiles": [
     "2023-12-11.md",
     "무제 파일.md",
