@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4380e6d3c37e0042",
+        "id": "e0ceceb947fa09ce",
         "type": "tabs",
         "children": [
           {
-            "id": "dbe8a4ed40c5f031",
+            "id": "7e3ec597739a4767",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "2023-12-11.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -114,7 +115,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -133,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dbe8a4ed40c5f031",
+  "active": "3152a1a92938743c",
   "lastOpenFiles": [
+    "2023-12-11.md",
     "무제 파일.md",
     "무제 파일 1.md",
-    "2023-12-11.md",
     "무제 파일.canvas",
     "무제 파일 2.md",
     "README.md"
